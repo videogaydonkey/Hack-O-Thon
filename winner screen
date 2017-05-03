@@ -1,0 +1,15 @@
+<html>
+	<body>
+    	<marquee scrollamount="35">
+        	<h1>
+          	A WINNER IS YOU!
+        	</h1>
+        	</marquee>
+		<img src="http://images.clipartpanda.com/smiley-face-thumbs-up-clipart-9cpeeK6Bi.jpeg">
+        <marquee scrollamount="35">
+        	<h1>
+          	A WINNER IS YOU!
+        	</h1>
+        	</marquee>
+    </body>
+</html>
